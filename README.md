@@ -5,7 +5,7 @@
 ##  🔗 Project Overview  
 This project kicks phishing websites to the curb using machine learning. It breaks down website features (like URL structure, subdomain depth, and path levels) to determine if a site is legit or a phishing scam. Built with **TensorFlow** for the brain, **Git LFS** for the heavy lifting, and a lot of data crunching to deliver fast, accurate results.
 
----
+
 ##  ✨ GamePlan ✨
 
 1. **Import Necessary Packages:**
@@ -88,7 +88,7 @@ This project kicks phishing websites to the curb using machine learning. It brea
     deactivate
     ```
 
----
+
 
 ## 📁 Project Structure
 
