@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/29150c7c-04a8-43ff-9f1a-e0f6753480f2)
 
-# ✨ Site Phishing AI Detector ✨ 🚀
+# ✨ Site Phishing AI Detector ✨ 
 
 ## Project Overview  
 This project kicks phishing websites to the curb using machine learning. It breaks down website features (like URL structure, subdomain depth, and path levels) to determine if a site is legit or a phishing scam. Built with **TensorFlow** for the brain, **Git LFS** for the heavy lifting, and a lot of data crunching to deliver fast, accurate results.
@@ -16,14 +16,12 @@ This project kicks phishing websites to the curb using machine learning. It brea
 
 ---
 
-##⚡How to Run Project
-
-### Prereq:
+###🔥 Prereq :
 - Python 3.x
 - TensorFlow for the model
 - Git LFS to handle those big files
 
-### 🔥 Setup Instructions
+###⚡Setup :
 
 1. **Clone the Repo**:
     ```bash
@@ -31,15 +29,15 @@ This project kicks phishing websites to the curb using machine learning. It brea
     cd Tensorflow-AI-Phishing-Detector
     ```
 
-2. **Set Up the Virtual Environment**:
+2. **Set Up Virtual Environment**:
 
-    - On Windows:
+    - Windows:
     ```bash
     python -m venv env
     .\env\Scripts\Activate
     ```
 
-    - On macOS/Linux:
+    - macOS/Linux:
     ```bash
     python3 -m venv env
     source env/bin/activate
