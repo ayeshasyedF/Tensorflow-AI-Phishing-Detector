@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/29150c7c-04a8-43ff-9f1a-e0f6753480f2)
 
-#  🚀 Site Phishing AI Detector 
+#  💻 Site Phishing AI Detector 
 
 ##  🔗 Project Overview  
 This project kicks phishing websites to the curb using machine learning. It breaks down website features (like URL structure, subdomain depth, and path levels) to determine if a site is legit or a phishing scam. Built with **TensorFlow** for the brain, **Git LFS** for the heavy lifting, and a lot of data crunching to deliver fast, accurate results.
