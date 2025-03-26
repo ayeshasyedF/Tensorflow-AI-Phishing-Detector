@@ -9,10 +9,31 @@ This project kicks phishing websites to the curb using machine learning. It brea
 
 ## 🚀 Game Plan
 
-- **Data Collection**: Grab key features from websites (URL, subdomain level, etc.).
-- **Model Training**: Train a badass ML model that spots phishing websites.
-- **Testing & Evaluation**: Test the model’s accuracy. It better work.
-- **Deployment**: Get the model into action to catch phishing websites in real time.
+Import Necessary Packages:
+
+tensorflow (for ML model training)
+
+pandas (for data handling)
+
+requests (for fetching website data)
+
+BeautifulSoup (for parsing HTML)
+
+Data Collection:
+
+Gather website data (URL structure, subdomain depth, domain age, etc.)
+
+Model Training:
+
+Train a machine learning model to classify websites as phishing or safe.
+
+Testing & Evaluation:
+
+Test the model’s performance and optimize it.
+
+Deployment:
+
+Set up the model to detect phishing websites in real-time.
 
 ---
 
