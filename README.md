@@ -16,12 +16,12 @@ This project kicks phishing websites to the curb using machine learning. It brea
 
 ---
 
-###🔥 Prereq :
+### 🔥 Prereq :
 - Python 3.x
 - TensorFlow for the model
 - Git LFS to handle those big files
 
-###⚡Setup :
+### ⚡Setup :
 
 1. **Clone the Repo**:
     ```bash
